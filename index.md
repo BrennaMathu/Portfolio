@@ -5,11 +5,11 @@ title: Brenna Mathu
 
 # Pyramid Escape
 ![Pyramid_Escape](/assets/img/Pyramid_Escape_portfolio_menu.png)
-#### Level Design, Narrative Design, UI Design, Sound Design. [See more](./designFundamentals.html).
+#### Level Design, Narrative Design, UI Design, Sound Design. [See more](./PyramidEscape.md).
 
 # Parkour Leap
 ![Parkour_Leap](/assets/img/Parkour_Leap_PlayerController.png)
-#### Basic Programming
+#### Basic Programming [See more](./ParkourLeap.md)
 
 # Applications
 - Unity
@@ -25,6 +25,6 @@ title: Brenna Mathu
 - Math Tutor (September 2022 - July 2024)
 
 # Education
-- Student Creative Media & Game Technology, Saxion Enschede. (September 2024 - Present)
+- Creative Media & Game Technology, Saxion Enschede. (September 2024 - Present)
 - World Rugby Coach-1 (May 2023)
 
