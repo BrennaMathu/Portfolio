@@ -6,9 +6,9 @@ title: Brenna Mathu
 ### Education
 Creative Media & Game Technology, Saxion Enschede
 
-### My Work
-- Pyramid Escape (Design)
-  - [See more](./designFundamentals.html).
+### Pyramid Escape (Design)
+![Game Design 2](/assets/img/Pyramid_Escape_portfolio_menu.png)
+### [See more](./designFundamentals.html).
 
 ### Collaboration Skills
 - Rugby Team
