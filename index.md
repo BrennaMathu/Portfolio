@@ -1,12 +1,14 @@
 ---
 layout: default
+title: Brenna Mathu
 ---
 
 ### Education
 Creative Media & Game Technology, Saxion Enschede
 
 ### My Work
-- CMGT Admission
+- Pyramid Escape (Design)
+  - [See more](./designFundamentals.html).
 
 ### Collaboration Skills
 - Rugby Team
