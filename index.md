@@ -3,12 +3,13 @@ layout: default
 title: Brenna Mathu
 ---
 
-### Education
-Creative Media & Game Technology, Saxion Enschede
+# Pyramid Escape
+![Pyramid_Escape](/assets/img/Pyramid_Escape_portfolio_menu.png)
+#### Level Design, Narrative Design, UI Design, Sound Design. [See more](./designFundamentals.html).
 
-### Pyramid Escape (Design)
-![Game Design 2](/assets/img/Pyramid_Escape_portfolio_menu.png)
-### [See more](./designFundamentals.html).
+# Parkour Leap
+![Parkour_Leap](/assets/img/Parkour_Leap_PlayerController.png)
+#### Basic Programming
 
 ### Collaboration Skills
 - Rugby Team
@@ -18,3 +19,6 @@ Creative Media & Game Technology, Saxion Enschede
 - Unity
 - Ableton
 - GIMP
+
+### Education
+Creative Media & Game Technology, Saxion Enschede
