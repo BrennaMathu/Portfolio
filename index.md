@@ -11,14 +11,20 @@ title: Brenna Mathu
 ![Parkour_Leap](/assets/img/Parkour_Leap_PlayerController.png)
 #### Basic Programming
 
-### Collaboration Skills
-- Rugby Team
-- Minecraft Server
-
-### Applications
+# Applications
 - Unity
-- Ableton
+- Adobe Photoshop
 - GIMP
+- Ableton
+- Fmod
+- GitHub
 
-### Education
-Creative Media & Game Technology, Saxion Enschede
+# Work Experience
+- Founder & Team-manager Rugby Women's team Apeldoorn. (March 2023 - Present)
+- Rugby Trainer, ages 5-12. (Januari 2020 - September 2024)
+- Math Tutor (September 2022 - July 2024)
+
+# Education
+- Student Creative Media & Game Technology, Saxion Enschede. (September 2024 - Present)
+- World Rugby Coach-1 (May 2023)
+
