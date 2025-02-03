@@ -42,3 +42,7 @@ title: Brenna Mathu
 - Creative Media & Game Technology at Saxion Enschede (_September 2024 - Present_)
 - World Rugby Coach-1 (_May 2023_)
 
+***
+
+# Contact
+[Linkedin](https://www.linkedin.com/in/brenna-mathu-209956331/)
