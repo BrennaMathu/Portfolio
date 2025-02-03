@@ -44,6 +44,6 @@ title: Brenna Mathu
 
 ***
 
-# Links
+# Contact & Links
 [Linkedin](https://www.linkedin.com/in/brenna-mathu-209956331/)
 [Itch.io](https://brenna-mathu.itch.io)

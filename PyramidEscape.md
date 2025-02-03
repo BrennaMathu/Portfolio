@@ -1,7 +1,16 @@
 ﻿---
 layout: default
 title: Pyramid Escape
-description: Educational game about Ancient Egypt. Made for the Design Fundamentals course at CMGT. < 5 min.
+description: Educational game about Ancient Egypt. Made to learn to the basics of Game Design.
 ---
 
+educational game?
+
+# Level design
+
+# UI
+
+# SFX
+
+# Playtesting
 [back](./)
