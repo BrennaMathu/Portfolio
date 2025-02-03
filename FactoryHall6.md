@@ -4,10 +4,11 @@ title: Factory Hall 6
 description: Point and click escape room game set in an abandoned factory. My first group project.
 ---
 
+
 This was my first group project. The goal was for us to learn how to work together, similair to the way we would in the workplace. This meant working in sprints, using a trello board, and using github.
 We also madea itch.io page for the project. You can find it here: [itch.io/factory-hall-six](https://lapraniteon.itch.io/factory-hall-six)
 
-# Game Concept
+## Game Concept
 Factory Hall 6 is a point an click escape room game. It has a combination of clue-realted puzzles and logical puzzles. The player is a nightguard who has to check on an abandoned factory because the burglar alarm went off. Once inside, the player discovers that the old machines are on and malfunctoning, causing overheating and a lockdown. They have to fix the machines to escape.
 
 ***
@@ -30,7 +31,7 @@ I did the level design for this project. The goals were:
 
 ## Greybox
 I made the greybox prototype we showed at our first sprint review. 
-![Greybox](/assets/vid/Greybox_video.mp4)
+![Greybox](/assets/img/Factory_Hall_6_Greybox.png)
 
 ## Implementing Assets & Dialogue.
 I implemented the assets by changing out pieces of the greybox. I imported the artist and external assets into unity. Another designer wrote most of the dialogue and designed the Dialogue UI. I implemented it into the game. 
