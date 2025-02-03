@@ -5,7 +5,7 @@ title: Brenna Mathu
 
 # Factory Hall 6
 ![Factory_Hall_6](/assets/img/Facory_Hall_6_Portfolio_menu.png)
-#### Project leader, Level Design, Greybox, implementing assets & dialogue, designing interfaces & hints. [See more](./FactoryHall6.md)
+#### Project leader, Level Design, Greybox, Implementing Assets & Dialogue. [See more](./FactoryHall6.md)
 
 ***
 
