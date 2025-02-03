@@ -3,6 +3,12 @@ layout: default
 title: Brenna Mathu
 ---
 
+# Factory Hall 6
+![Factory_Hall_6](/assets/img/Facory_Hall_6_Portfolio_menu.png)
+#### Project leader, Level Design, Greybox, implementing assets & dialogue, designing interfaces & hints. [See more](./FactoryHall6.md)
+
+***
+
 # Pyramid Escape
 ![Pyramid_Escape](/assets/img/Pyramid_Escape_portfolio_menu.png)
 #### Level Design, Narrative Design, UI Design, Sound Design. [See more](./PyramidEscape.md).
