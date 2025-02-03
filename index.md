@@ -33,7 +33,7 @@ title: Brenna Mathu
 
 # Work Experience
 - Founder & Team-manager Rugby Women's team Apeldoorn. (_March 2023 - Present_)
-- Rugby Trainer, ages 5-12. (_Januari 2020 - September 2024_)
+- Rugby Trainer, children ages 5-12. (_Januari 2020 - September 2024_)
 - Math Tutor (_September 2022 - July 2024_)
 
 ***
