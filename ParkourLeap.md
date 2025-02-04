@@ -10,7 +10,7 @@ The game lets the player parkour through three different levels of difficulty un
 The game has a gamemanager script that is declared a singleton and keeps track of the scores, updates the UI and respawns the player when they fall off.
 
 # Level & Point spawning
-The game instantiates 3 randomly choosen levels from an array and three baselevels in between evry 200 U.
+The game instantiates three randomly choosen levels from an array and three baselevels in between every 200 U.
 Every time the z position of the player advances 200 U, the SpawnLevels method gets called.
 
 The extra points also get instantiated from an array, but they only spawn above the parkourlevels, not the base levels.
@@ -18,7 +18,7 @@ The extra points also get instantiated from an array, but they only spawn above 
 ![SpawnLevels_Method](/assets/img/Parkour_Leap_SpawnLevels.png)
 
 # Player Movement
-The game checks if the floor is within 1.5 U, if the player presses Space & if the gamemanager allows movement before the player can jump. If the player collides with the side of a level it tells the gamemanager to stop allowing movement, stopping the velocity and letting the player fall down.
+The game checks if the floor is within 1.5 U, if the player presses Space, and if the gamemanager allows movement before the player can jump. If the player collides with the side of a level it tells the gamemanager to stop allowing movement, stopping the velocity and letting the player fall down.
 
 ![Raycast_Collision](/assets/img/Parkour_Leap_Raycast_&_Collision.png)
 
