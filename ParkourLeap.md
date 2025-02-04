@@ -20,7 +20,7 @@ The extra points also get instantiated from an array, but they only spawn above 
 # Player Movement
 The game checks if the floor is within 1.5 U, if the player presses Space & if the gamemanager allows movement before the player can jump. If the player collides with the side of a level it tells the gamemanager to stop allowing movement, stopping the velocity and letting the player fall down.
 
-![Raycast_&_Collision](/assets/img/Parkour_Leap_Raycast_&_Collision.png)
+![Raycast_Collision](/assets/img/Parkour_Leap_Raycast_&_Collision.png)
 
 # Performance
 The game deletes the levels and the extra points once the player passes them. The scripts are written in a way that the game only checks for things when strictly neccesary.
