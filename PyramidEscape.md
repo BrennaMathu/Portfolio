@@ -18,7 +18,6 @@ The sphinx is a vain creature, it believes itself best and others inferior. It l
 # Level design
 Aside from height differences, the level design is very straightforward. This is because pyramids have very square rooms and hallways. To resemble the inside of a pyramid even more, the lighting is very dim and comes solely from torches. I spend a lot of time making sure all the assets fit together and make the game look like a realistic egyptian pyramid.
 
-![Sphynx](/assets/img/Pyramid_Escape_Playthrough.png)
 
 # UI
 There is a task in the top left corner and a dialogue box along the bottom of the screen. The font is readable but looks egyptian. 
