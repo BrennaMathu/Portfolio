@@ -21,5 +21,3 @@ The game has a grid with slots. The inventory works by adding items as children 
 The game has inactive GameObjects that are set active when the player has the right item in the tool slot.
 ![Item_Placement](/assets/img/Higher_Up_ItemPlacement.png)
 
-## Playthrough
-You can watch a video of the playthrough here
