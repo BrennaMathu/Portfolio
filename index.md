@@ -27,26 +27,34 @@ title: Brenna Mathu
 
 ***
 
-# Applications
+# Tools
 - Unity
-- Adobe Photoshop
+- C#
+- Version Control: Git
+- Adobe Creative Cloud
 - GIMP
 - Ableton
 - Fmod
-- GitHub
 
 ***
 
 # Work Experience
-- Founder & Team-manager Rugby Women's team Apeldoorn. (_March 2023 - Present_)
-- Rugby Trainer, children ages 5-12. (_Januari 2020 - September 2024_)
-- Math Tutor (_September 2022 - July 2024_)
+- **Math Tutor** 
+    Apeldoorn, 2022 - 2024
+- **Founder & Team-manager Rugby Women's Team Apeldoorn.** (_volunteer work_)
+    Rams RFC, Apeldoorn, 2023 - Present
+- **Rugby Trainer, children ages 5-12.** (_volunteer work_)
+    Rams RFC, Apeldoorn, 2020 - 2024
 
 ***
 
 # Education
-- Creative Media & Game Technology at Saxion Enschede (_September 2024 - Present_)
-- World Rugby Coach-1 (_May 2023_)
+- **Creative Media & Game Technology**
+    Saxion, 2024 - Present
+- **Havo Diploma** (High school)
+    Aventus, 2024
+- **Rugby Coach 1**
+    World Rugby, 2023
 
 ***
 
