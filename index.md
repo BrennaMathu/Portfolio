@@ -39,7 +39,8 @@ title: Brenna Mathu
 ***
 
 # Work Experience
-- **Math Tutor**  \ 
+- **Math Tutor**
+
 Apeldoorn, 2022 - 2024
 - **Founder & Team-manager Rugby Women's Team Apeldoorn.** (_volunteer work_)\
 Rams RFC, Apeldoorn, 2023 - Present
