@@ -39,22 +39,22 @@ title: Brenna Mathu
 ***
 
 # Work Experience
-- **Math Tutor** 
-    Apeldoorn, 2022 - 2024
-- **Founder & Team-manager Rugby Women's Team Apeldoorn.** (_volunteer work_)
-    Rams RFC, Apeldoorn, 2023 - Present
-- **Rugby Trainer, children ages 5-12.** (_volunteer work_)
-    Rams RFC, Apeldoorn, 2020 - 2024
+- **Math Tutor**/ 
+Apeldoorn, 2022 - 2024
+- **Founder & Team-manager Rugby Women's Team Apeldoorn.** (_volunteer work_)\
+Rams RFC, Apeldoorn, 2023 - Present
+- **Rugby Trainer, children ages 5-12.** (_volunteer work_)\
+Rams RFC, Apeldoorn, 2020 - 2024
 
 ***
 
 # Education
-- **Creative Media & Game Technology**
-    Saxion, 2024 - Present
-- **Havo Diploma** (High school)
-    Aventus, 2024
+- **Creative Media & Game Technology**\
+Saxion, 2024 - Present
+- **Havo Diploma** (High school)\
+Aventus, 2024
 - **Rugby Coach 1**
-    World Rugby, 2023
+World Rugby, 2023
 
 ***
 
