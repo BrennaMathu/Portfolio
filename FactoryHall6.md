@@ -23,18 +23,18 @@ The group assigned me to be project leader, so my main task was to keep an overv
 - I prepared the weekly sprint reviews and ensured that we showed all the important parts of what we were working on.
 
 ## Level Design
-I did the level design for this project. The goals were:
+I worked on the level design for this project. The goals were:
 - To make it feel like an old factory. It needs to be a big and square space with rooms with a clear purpose.
-- To make sure that the factory doesn't get too big, which would make the player lose too much overview.
-- To put in enough details and viewbreakers to keep it somewhat difficult to find the hints for the puzzles.
+- To make sure that the factory doesn't get too big, which would make the player lose overview too much.
+- To put in enough details and viewbreakers to make it difficult enough to find the hints for the puzzles.
 ![Level_Design](/assets/img/Factory_Hall_6_Level_Design.png)
 
 ## Greybox
-I made the greybox prototype we showed at our first sprint review. 
+I made the greybox prototype we showed at our first sprint review.
 ![Greybox](/assets/img/Factory_Hall_6_Greybox.png)
 
 ## Implementing Assets & Dialogue.
-I implemented the assets by changing out pieces of the greybox. I imported the artists' and external assets into unity. Another designer wrote most of the dialogue and designed the Dialogue UI. I implemented it into the game. 
+I implemented the assets by changing out pieces of the greybox. I imported the artists' and external assets into Unity. Another designer wrote most of the dialogue and designed the dialogue UI. I implemented this into the game. 
 ![Implementing_Assets](/assets/img/Factory_Hall_6_Implementing_Assets.png)
 
 ### You can find the game here: [itch.io/factory-hall-six](https://lapraniteon.itch.io/factory-hall-six)
