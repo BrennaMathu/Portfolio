@@ -55,7 +55,7 @@ Rams RFC, Apeldoorn, 2020 - 2024
 Saxion, 2024 - Present
 - **Havo Diploma** (High school)\
 Aventus, 2024
-- **Rugby Coach 1**
+- **Rugby Coach 1** <br>
 World Rugby, 2023
 
 ***
@@ -80,6 +80,6 @@ World Rugby, 2023
 ***
 
 ## Rugby Games
-![RugbyGames](/assets/img/Rugby_Games_Rugby_Dodgeball.png)
-#### IRL Games to teach children rugby skills [See more](./Rugby%20Games.md)
+![RugbyGames](/assets/img/Rugby_Games_Rugby_Dodgeball_Menu.png)
+#### IRL Games to teach children rugby skills [See more](./RugbyGames.md)
 ***
