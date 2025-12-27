@@ -3,27 +3,29 @@ layout: default
 title: Brenna Mathu
 ---
 
-# Factory Hall 6
-![Factory_Hall_6](/assets/img/Facory_Hall_6_Portfolio_menu.png)
-#### Project leader, Level Design, Greybox, Implementing Assets & Dialogue. [See more](./FactoryHall6.md)
-
+# Picky Planters
+### Educational Puzzle Game
+[PickyPlanters](/assets/img/Picky_Planters_Portfolio_Menu.png)
+#### Level Design, Sound Design, Playtesting.
 ***
 
-# Pyramid Escape
-![Pyramid_Escape](/assets/img/Pyramid_Escape_portfolio_menu.png)
-#### Level Design, Narrative Design, UI Design, Sound Design. [See more](./PyramidEscape.md).
-
-***
-
-# Parkour Leap
-![Parkour_Leap](/assets/img/Parkour_Leap_PlayerController.png)
-#### Basic Programming [See more](./ParkourLeap.md)
-
+# Reptile Rush
+### Parkour Game
+[ReptileRush](/assets/img/Reptile_Rush_In_Game.png)
+#### Mobile Game, Level Design, Playtesting, Project Leader
 ***
 
 # Higher Up
 ![Higher_Up](/assets/img/Higher_Up_Menu.png)
 #### Point and click mechanic. Inventory system with drag and drop feature [See more](./HigherUp.md)
+
+## More projects down below!
+***
+
+# Contact & Links
+[Email](brennamathu@gmail.com).
+[Linkedin](https://www.linkedin.com/in/brenna-mathu-209956331/).
+[Itch.io](https://brenna-mathu.itch.io).
 
 ***
 
@@ -58,7 +60,26 @@ World Rugby, 2023
 
 ***
 
-# Contact & Links
-[Linkedin](https://www.linkedin.com/in/brenna-mathu-209956331/).
+# More Projects
 
-[Itch.io](https://brenna-mathu.itch.io).
+## Factory Hall 6
+### Point & Click Puzzle Game
+[FactoryHall6](/assets/img/Facory_Hall_6_Portfolio_menu.png)
+#### Project Leader, Level Design, Greybox, Asset Placement
+***
+
+## Pyramid Escape
+### Puzzle adventure with educational element
+[PyramidEscape](/assets/img/Pyramid_Escape_portfolio_menu.png)
+#### Narrative Design, Puzzle Design, UI, Sound Design
+***
+
+## Cefarlo's Liberation
+[Cefarlo'sLiberation](/assets/img/Cefarlo's_Liberation_Menu_Page.png)
+#### Narrative Design, branching story, Sound Design
+***
+
+## Rugby Games
+[RugbyGames](/assets/img/Rugby_Games_Rugby_Dodgeball.png)
+#### IRL Games to teach children rugby skills
+***
