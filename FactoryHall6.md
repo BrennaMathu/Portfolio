@@ -40,4 +40,4 @@ I implemented the assets by changing out pieces of the greybox. I imported the a
 ### You can find the game here: [itch.io/factory-hall-six](https://lapraniteon.itch.io/factory-hall-six)
 
 
-[back](./)
+[Back](./)

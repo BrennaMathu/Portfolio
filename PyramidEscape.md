@@ -35,8 +35,8 @@ The puzzles increase in difficulty to achieve a sense of progression.
 I conducted two playtesting sessions. One where I looked at what the player was doing without interfering and wrote down my observations. I also did playtests were the testers filled out a google form. Based on this feedback, I balanced the puzzles better, made changes to the explanation of the game at the start, added more sound effects and changed the dialogue. I used the form to check if the immersion was good, and if players actually learned something about Ancient Egypt. Both of these goals were reached during the last playtests.
 ***
 
-This game can be downloaded on itch.io
+This game can be downloaded on itch.io:
 [Itch.io/PyramidEscape](https://brenna-mathu.itch.io/pyramid-escape)
 
 
-[back](./)
+[Back](./)

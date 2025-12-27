@@ -22,3 +22,5 @@ The Item type is specified with Scriptable Objects.
 The game has inactive GameObjects that are set active when the player has the right item in the tool slot.
 ![Item_Placement](/assets/img/Higher_Up_ItemPlacement.png)
 
+[Back](./)
+
