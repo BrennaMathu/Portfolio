@@ -18,7 +18,8 @@ This game is an extension of the simple version. The youth categories 8-10 and 1
 ![AdvancedNameGame](/assets/img/Rugby_Games_Advanced_name_game.png)
 
 # Rugby Dodgeball
-This is a rugby version of dodgeball. I made it as another way to get kids throwing the ball as much as possible while keeping them entertained. The first iteration of this game only had the soft ball and didn’t inspire a lot of teamwork outside of cornering people with the teammates in the backfield. <br>
+This is a rugby version of dodgeball. I made it as another way to get kids throwing the ball as much as possible while keeping them entertained. The first iteration of this game only had the soft ball and didn’t inspire a lot of teamwork outside of cornering people with the teammates in the backfield.
+
 Adding the normal rugby balls meant they had to pay closer attention to their surroundings (what ball is being thrown at me?) and gave them a reason to collaborate more; the hit shields must always be guarded now. <br>
 This also meant that the best offense tactic is to throw the soft ball at the ‘guard’ and then throw the normal balls at the now unguarded hit shield. Once they realised this, they really started to work as a team.
 

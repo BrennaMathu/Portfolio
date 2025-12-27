@@ -25,5 +25,6 @@ We did two playtest sessions for this project. The first was check if the main m
 This project was my second one as project leader, but it was the first time I had to solve difficult problems. The first problem was that one of my teammates started the project with a cold, which quickly got everyone too sick to work for an average of four days a person. This meant that I had to rearrange our priorities and our planning to fit the lower workload we could then bear. The four levels we had planned became two. Tasks with a high priority that were previously assigned to someone who got sick had to be reassigned. It was very chaotic, but we managed to finish the project in time. <br>
 The second problem was a teammate who was one to three hours late three times in one week. This meant that I had to have a talk with them about how to solve this. This resulted in an action plan to solve this problem and a formal warning to being kicked out of the group. This was a difficult conversation to have with someone, especially because we’re friends too, but they were on time the rest of the project.
 
+### You can find the game here: [Itch.io/ReptileRush](https://lapraniteon.itch.io/reptile-rush)
 
 [Back](./)

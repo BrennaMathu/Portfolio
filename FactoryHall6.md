@@ -37,7 +37,7 @@ I made the greybox prototype we showed at our first sprint review.
 I implemented the assets by changing out pieces of the greybox. I imported the artists' and external assets into Unity. Another designer wrote most of the dialogue and designed the dialogue UI. I implemented this into the game. 
 ![Implementing_Assets](/assets/img/Factory_Hall_6_Implementing_Assets.png)
 
-### You can find the game here: [itch.io/factory-hall-six](https://lapraniteon.itch.io/factory-hall-six)
+### You can find the game here: [Itch.io/factory-hall-six](https://lapraniteon.itch.io/factory-hall-six)
 
 
 [Back](./)

@@ -29,9 +29,12 @@ For the first step, I made a list with all the sounds the game needs. This inclu
 Because the game is a cozy educational puzzle game, it has a rather wide target audience: <br>
 •	People who don't have or can’t maintain a garden and just want to make pretty gardens in a game to replace that. <br>
 •	The education system: our game can teach kids about different plants and what they need to thrive, which is becoming more important for kids to learn considering climate change and the increased need for thriving green spaces. <br>
-•	People who like to play cozy/casual puzzle games, often older people or people who don’t game much. <br>
+•	People who like to play cozy/casual puzzle games, often older people or people who don’t game much.
+
 This meant that it had to be play tested on a lot of different people. The first playtest we did was on a smaller group, the main purpose was to take bugs and level/game design that didn’t work well out of the prototype. Once we had a vertical slice, we tested it on our target audiences. A school class for example, to ensure that younger kids were able to play our game and learn about plants from it. We also tested it on a group of older people who aren’t used to computers/games. Another important question was if the game is fun to play.
 
 ![Playtesting](/assets/img/Picky_Planters_Playtesting.png)
+
+### You can find the game here: [Itch.io/PickyPlanters](https://lapraniteon.itch.io/picky-planters)
 
 [Back](./)
