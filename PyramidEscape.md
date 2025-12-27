@@ -13,6 +13,9 @@ The game has two characters that have dialogue;
 The pharaoh is a character who has been alone for a long time, so he behaves a bit peculiar. It is as though he has forgotten how to interact with people while maintaining the personality traits that come with being a monarch. Traits like easily deciding over life and death or asking a random person to do things for him, like finding his cat.
 The sphinx is a vain creature, it believes itself best and others inferior. It likes to make its sentences as well as its riddles complicated. I made its sentences as complicated as I could, while maintaining clarity.
 
+# Puzzle Design
+The three puzzles in this game are all based on a part of Ancient Egypts culture. The first puzzle has the player encounter the mummy of a pharaoh who lost his mummified cat. Through him the player learns what ancient egyptians believed happened after death and the basics of their funerary rites. The solution to the second puzzle can be found in the Book of the Dead that's on the wall. The diary of a dead archeologist explains what the Book of the Dead is and provides a hint. In the third puzzle the player encounters the Sphynx and needs to solve his classic riddle.
+
 # UI
 There is a task in the top left corner and a dialogue box along the bottom of the screen. The font looks Egyptian, but I ensured that it remains readable. 
 The button and divider in the dialogue box are made in Adobe Photoshop using images of Ancient Egyptian jewelry. The gemstones are Saphire, Lapis Lazuli and Turquoise, which were commonly used in Ancient Egypt. The divider has a hawk jewelry piece. Hawks are often featured in Ancient Egyptian Mythology.
