@@ -5,8 +5,8 @@ description: Cozy Puzzle Game with an educational element. Vertical slice for a 
 ---
 
 The vertical slice for this game was made for a 3-week group project with 5 other students. 
-It can be played on itch: https://lapraniteon.itch.io/picky-planters. 
-The trailer can be seen here: https://youtu.be/6m5jPqGHcPU
+It can be played on itch: [Itch.io/PickyPlanters](https://lapraniteon.itch.io/picky-planters). 
+The trailer can be seen here: [Youtube/PickyPlanters](https://youtu.be/6m5jPqGHcPU).
 
 As the **lead designer** on this project, I worked on the level design for the level in the vertical slice and two additional levels. I also did playtesting, sound design and worked on the business plan.
 

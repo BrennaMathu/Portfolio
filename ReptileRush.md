@@ -5,7 +5,7 @@ description: Mobile Parkour Game. Focus on Optimizing the performance and UI for
 ---
 
 Reptile Rush was made for a three-week group project with 5 other students; it is the first mobile game we made. We focused on optimizing the game and on UI that can easily be used on mobile.
-It can be played here: https://lapraniteon.itch.io/reptile-rush 
+It can be played here: [Itch.io/ReptileRush](https://lapraniteon.itch.io/reptile-rush) 
 
 As the **project leader** on this project, I was responsible for keeping an overview of the project, the time planning, keeping track of everyone’s work, keeping everyone motivated and if necessary, conflict resolution. And as the **lead designer** I made the grey box, organized playtesting, adjusted the difficulty of the levels and assisted with other design work.
 
