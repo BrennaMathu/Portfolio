@@ -7,14 +7,14 @@ description: A branching story written for a course at CMGT with the goal to lea
 The story can be read/played here: [ArcWeave](https://arcweave.com/app/project/YR6RPBBlVJ/play?entrypoint=play_btn) <br>
 The Project can be viewed here: [ArcWeaveProject](https://arcweave.com/app/project/YR6RPBBlVJ)
 
-For this project, I wanted to write a story where none of the choices the player makes are objectively wrong, they just have different consequenses. The choices change the world around the main character and their position in it. The player can decide wether those changes are good or bad. The story takes place in a fantasy world with a mgaic system. Gender is not a thing in this world, so every character is referred to using they.
+For this project, I wanted to write a story where none of the choices the player makes are objectively wrong, they just have different consequenses. The choices change the world around the main character and their position in it. The player can decide wether those changes are good or bad. The story takes place in a fantasy world with a magic system. Gender is not a thing in this world, so every character is referred to using they.
 
 # World Building
 The world of this story has three islands that float in the sky. Grozikal has started going through an industrial revolution because of the high amount of iron and other ores present on the island. Because of the limited vegetation on the island, they quickly ran out of fuel. They build zeppelins to colonize the less developed Cefarlo and take their coal and trees to continue developing their own island. Cefarlo has started to revolt against their colonizers, but it's an unequal battle.
 
 ## Magic System
 This world has a hard magic system called Sweskel. People with Sweskel have the ability to temporarily exchange their hands for something related to their island of origin. <br>
-The types of Sweskel can be read in the ArcWeave components: [ArcWeaveProject](https://arcweave.com/app/project/YR6RPBBlVJ)
+The types of Sweskel can be read in the ArcWeave components: [ArcWeaveProject](https://arcweave.com/app/project/YR6RPBBlVJ).
 Because people with Sweskel are useful when it comes to mining and forestry, they are quickly taken from their homes and used to gather resources, in both Cefarlo and Grozikal.
  
 # The Branches
