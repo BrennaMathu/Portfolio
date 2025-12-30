@@ -31,6 +31,8 @@ There are four Background music tracks in this game, one for the menu and one fo
 Pyramids have very simple interior design, the rooms and hallways are square. To make the level design more interesting, I added some height differences and a lot of details that the players eye can be drawn too. To resemble the inside of a pyramid even more, the lighting is very dim and comes solely from torches. I spend a lot of time making sure all the assets fit together and to make the game look like a realistic Egyptian pyramid.
 The puzzles increase in difficulty to achieve a sense of progression.
 
+![Level Design](/assets/img/Pyramid_Escape_Level_Design.jpeg)
+
 # Playtesting
 I conducted two playtesting sessions. One where I looked at what the player was doing without interfering and wrote down my observations. I also did playtests where the testers filled out a google form. Based on this feedback, I balanced the puzzles better, made changes to the explanation of the game at the start, added more sound effects and changed the dialogue. I used the form to check if the immersion was good, and if players actually learned something about Ancient Egypt. Both of these goals were reached during the last playtests.
 
