@@ -9,15 +9,16 @@ title: Brenna Mathu
 #### Level Design, Sound Design, Playtesting [See more](./PickyPlanters.md)
 ***
 
+# Mental Health Trivia
+### Trvia game about mental health made for Korak Recovery Academy
+![Mental Health Trivia](/assets/img/Mentale_Gezondheids_Trivia_Menu.png)
+#### Educational Game, Generating Concepts, Playtesting [See more](./MentalHealthTrivia.md)
+
 # Reptile Rush
 ### Parkour Game
 ![ReptileRush](/assets/img/Reptile_Rush_In_Game.png)
 #### Mobile Game, Level Design, Playtesting, Project Leader [See more](./ReptileRush.md)
 ***
-
-# Higher Up
-![Higher_Up](/assets/img/Higher_Up_Menu.png)
-#### Point and click mechanic. Inventory system with drag and drop feature [See more](./HigherUp.md)
 
 ## More projects down below!
 ***
@@ -61,6 +62,10 @@ World Rugby, 2023
 ***
 
 # More Projects
+
+## Higher Up
+![Higher_Up](/assets/img/Higher_Up_Menu.png)
+#### Point and click mechanic. Inventory system with drag and drop feature [See more](./HigherUp.md)
 
 ## Factory Hall 6
 ### Point & Click Puzzle Game
